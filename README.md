@@ -13,7 +13,7 @@ In this project we are focusing on the following tasks:
 ---
 
 ## Time:
-|#Weeks |Task                               |
+|Weeks |Task                               |
 |---	|---	                                |
 |   1	|Installation of the required drivers |
 |   1	|Table Calibration   	                |
