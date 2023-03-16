@@ -20,6 +20,7 @@ In this project we are focusing on the following tasks:
 |   2	|Object Detection         	          |
 |   2 |Object Recognition                   |
 
+## Contributors:
 
-
-
+- [@mapk58](https://github.com/mapk58)
+- [@olegogogo](https://github.com/olegogogo)
