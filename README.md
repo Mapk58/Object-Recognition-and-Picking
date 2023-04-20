@@ -28,9 +28,9 @@ In this project we are focusing on the following tasks:
 * opencv-python
 
 ## Results:
-
+System recieve video stream and detect edges and depth map:
 ![1](https://user-images.githubusercontent.com/45263316/233270241-4a0d70b5-93ae-42e2-874c-a2c8d343036b.png)
-
+As an output, logs are sent to the console:
 ~~~
 {
  "Data:": [
